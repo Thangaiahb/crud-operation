@@ -1,0 +1,4 @@
+* This is the simple crud operation Web App for hotel(Food Details)
+* this app inside register a food details
+* and the register food details are show in a all data's page
+* that data's are easily we cam Update and delete option is available in the web application
